@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+<img src="https://pngimg.com/uploads/github/github_PNG40.png" width="22" height="22">[RadostKostova](https://github.com/RadostKostova)
