@@ -1,4 +1,4 @@
-**Some of the things i like:**
+**_Some_ of the things i like:**
 
 * Studying new things :books:
 * Develop new skills
